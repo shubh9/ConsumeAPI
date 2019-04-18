@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Consume Stock API">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$USER_HOME$/Downloads/java-json.jar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../PomoTODO_phase3_p7b2b/lib/json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/java-json.jar.zip!/" recursive="false" />
+  </library>
+</component>
