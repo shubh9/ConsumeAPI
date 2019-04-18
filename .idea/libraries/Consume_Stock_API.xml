@@ -4,6 +4,7 @@
       <root url="file://$PROJECT_DIR$" />
       <root url="jar://$USER_HOME$/Downloads/java-json.jar.zip!/" />
       <root url="jar://$PROJECT_DIR$/../PomoTODO_phase3_p7b2b/lib/json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../PomoTODO_phase3_b7j2b/lib/json.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
