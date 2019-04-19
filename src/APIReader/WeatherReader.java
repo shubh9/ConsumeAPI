@@ -15,6 +15,7 @@ import java.util.Scanner;
 
 public class WeatherReader {
     public static void main(String[] args) throws IOException {
+        //
         String cityName = "Vancouver";
         String countryID = "ca";
 
